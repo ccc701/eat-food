@@ -1,18 +1,19 @@
-# ??? Eat-Food - ÃÀÊ³·¢ÏÖÓë·ÖÏí 
+#Eat-Food - ç¾é£Ÿå‘ç°ä¸åˆ†äº« 
  
 > This is my repository. You can find some food and say some food. 
  
-## ÏîÄ¿½á¹¹ 
-- recipes/ - ¸÷ÖÖ²ËÆ× 
-- tools/ - ÊµÓÃ¹¤¾ß 
-- food_data/ - Ê³ÎïÊı¾İ 
-- docs/ - ÎÄµµ 
+## é¡¹ç›®ç»“æ„ 
+- recipes/ - å„ç§èœè°± 
+- tools/ - å®ç”¨å·¥å…· 
+- food_data/ - é£Ÿç‰©æ•°æ® 
+- docs/ - æ–‡æ¡£ 
  
-## ¿ìËÙ¿ªÊ¼ 
+## å¿«é€Ÿå¼€å§‹ 
 \`\`\`bash 
 git clone https://github.com/ccc701/eat-food.git 
 cd eat-food 
 \`\`\` 
  
-## Ğí¿ÉÖ¤ 
+## è®¸å¯è¯ 
 MIT License 
+
