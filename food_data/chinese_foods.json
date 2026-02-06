@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source": "《中国食物成分表》标准版第6版",
+    "units": "每100克可食部",
+    "last_updated": "2024-01-01"
+  },
+  "foods": {
+    "谷薯类": [
+      {"name": "大米", "calories": 346, "protein": 7.4, "fat": 0.8, "carbs": 77.2, "fiber": 0.7},
+      {"name": "米饭", "calories": 116, "protein": 2.6, "fat": 0.3, "carbs": 25.6, "fiber": 0.3},
+      {"name": "面条", "calories": 284, "protein": 8.3, "fat": 0.7, "carbs": 61.9, "fiber": 0.8},
+      {"name": "馒头", "calories": 223, "protein": 7.0, "fat": 1.1, "carbs": 47.0, "fiber": 1.3},
+      {"name": "玉米", "calories": 112, "protein": 4.0, "fat": 1.2, "carbs": 22.8, "fiber": 2.9}
+    ],
+    
+    "肉蛋类": [
+      {"name": "鸡蛋", "calories": 144, "protein": 13.3, "fat": 8.8, "carbs": 2.8, "fiber": 0},
+      {"name": "鸡胸肉", "calories": 133, "protein": 19.4, "fat": 5.0, "carbs": 2.5, "fiber": 0},
+      {"name": "猪肉", "calories": 395, "protein": 13.2, "fat": 37.0, "carbs": 2.4, "fiber": 0},
+      {"name": "牛肉", "calories": 125, "protein": 19.9, "fat": 4.2, "carbs": 2.0, "fiber": 0},
+      {"name": "鱼", "calories": 113, "protein": 20.0, "fat": 3.4, "carbs": 0, "fiber": 0}
+    ],
+    
+    "蔬菜类": [
+      {"name": "番茄", "calories": 19, "protein": 0.9, "fat": 0.2, "carbs": 4.0, "fiber": 0.5},
+      {"name": "黄瓜", "calories": 15, "protein": 0.8, "fat": 0.2, "carbs": 2.9, "fiber": 0.5},
+      {"name": "白菜", "calories": 17, "protein": 1.5, "fat": 0.1, "carbs": 3.2, "fiber": 0.8},
+      {"name": "土豆", "calories": 77, "protein": 2.0, "fat": 0.2, "carbs": 17.2, "fiber": 0.7},
+      {"name": "胡萝卜", "calories": 37, "protein": 1.0, "fat": 0.2, "carbs": 8.8, "fiber": 1.1}
+    ],
+    
+    "豆制品": [
+      {"name": "豆腐", "calories": 81, "protein": 8.1, "fat": 3.7, "carbs": 4.2, "fiber": 0.4},
+      {"name": "豆浆", "calories": 14, "protein": 1.8, "fat": 0.7, "carbs": 1.1, "fiber": 0}
+    ],
+    
+    "水果类": [
+      {"name": "苹果", "calories": 52, "protein": 0.2, "fat": 0.2, "carbs": 13.5, "fiber": 1.2},
+      {"name": "香蕉", "calories": 89, "protein": 1.1, "fat": 0.3, "carbs": 22.0, "fiber": 1.2},
+      {"name": "橙子", "calories": 47, "protein": 0.8, "fat": 0.2, "carbs": 11.7, "fiber": 0.6}
+    ],
+    
+    "调料类": [
+      {"name": "食用油", "calories": 899, "protein": 0, "fat": 99.9, "carbs": 0, "fiber": 0},
+      {"name": "白糖", "calories": 400, "protein": 0, "fat": 0, "carbs": 99.9, "fiber": 0},
+      {"name": "盐", "calories": 0, "protein": 0, "fat": 0, "carbs": 0, "fiber": 0}
+    ]
+  }
+}
